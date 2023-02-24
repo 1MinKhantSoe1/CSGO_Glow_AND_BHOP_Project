@@ -4,6 +4,8 @@
 #include <thread>
 #include <iostream>
 #include <stdio.h>
+#include <sstream>  // for string streams
+#include <string>  // for string
 
 
 
@@ -30,7 +32,7 @@ __declspec(align(16)) struct Color
 int main()
 {
 	const auto mem = MemMem4789f23283b3a61f858b641a1bef19a3oryory(XOR("csgo.exe")); //calling memory class from memory.h
-
+	
 	std::cout << "csgo process found!" << std::endl;
 
 	std::cout << "sorry, gamers :3" << std::endl;
@@ -143,18 +145,35 @@ int main()
 	double smjgz = 3102;
 	short potwwkppnqe = 791062;
 	int dsfgimzvrqyl;
+
+	const auto localPlayer = mem.Read<std::uintptr_t>(client + offsets::lo7114236dffa16d08f87205ffcf72d6e7cal);
+	const auto p_localplayer = localPlayer;
+	std::cout << "localPlayer -> " << "0x" << std::hex << p_localplayer << std::dec << std::endl;
+
+	const auto localPlayerTeam = mem.Read<std::uintptr_t>(localPlayer + offsets::teamee0998fa18376b19b1239cace203613cNum);
+	const auto p_localPlayerTeam = localPlayerTeam;
+	std::cout << "localPlayerTeam -> " << "0x" << std::hex << p_localPlayerTeam << std::dec << std::endl;
+
+	const auto localPlayerFlags = mem.Read<std::uintptr_t>(localPlayer + offsets::fl4e5868d676cb634aa75b125a0f741abfags);
+	const auto p_localPlayerFlags = localPlayerFlags;
+	std::cout << "localPlayerFlags -> " << "0x" << std::hex << p_localPlayerFlags << std::dec << std::endl;
+
+	const auto glowObjectManager = mem.Read<std::uintptr_t>(client + offsets::glowObjf5e6a734374047568be84896615bf44cectManager);
+	const auto p_glowObjectManager = glowObjectManager;
+	std::cout << "glowObjectManager -> " << "0x" << std::hex << p_glowObjectManager << std::dec << std::endl;
+
 	while (true)
 	{
 
 		std::this_thread::sleep_for(std::chrono::milliseconds(1));
 
-		const auto localPlayer = mem.Read<std::uintptr_t>(client + offsets::lo7114236dffa16d08f87205ffcf72d6e7cal);
+		localPlayer;
 
 		if (!localPlayer)
 			continue;
 
-		const auto localPlayerTeam = mem.Read<std::uintptr_t>(localPlayer + offsets::teamee0998fa18376b19b1239cace203613cNum);
-		const auto localPlayerFlags = mem.Read<std::uintptr_t>(localPlayer + offsets::fl4e5868d676cb634aa75b125a0f741abfags);
+		localPlayerTeam;
+		localPlayerFlags;
 
 		// Bhop
 		/*if (GetAsyncKeyState(VK_SPACE))
@@ -163,7 +182,7 @@ int main()
 			mem.Write<std::uintptr_t>(client + offsets::force8c7bced2011091f5d4c7b356cc411dfaJump, 4);*/
 
 			// Glow
-		const auto glowObjectManager = mem.Read<std::uintptr_t>(client + offsets::glowObjf5e6a734374047568be84896615bf44cectManager);
+		glowObjectManager;
 
 		for (auto i = 1; i <= 32; ++i)
 		{
@@ -185,6 +204,7 @@ int main()
 		}
 
 	}
+
 	string hznyrrfifx(short grnhjpvkrzvn, bool xvhrytc, short cqxwlyw);
 	int yrabuhqohpm = 75843;
 	double gowdrlp = 73310415;
