@@ -1,0 +1,97 @@
+﻿  main.cpp
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(79,24): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(79,17): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(84,25): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(84,20): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(94,23): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(94,16): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(99,24): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(99,17): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(109,24): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(109,17): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(114,27): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(114,19): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(119,31): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(119,23): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(129,30): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(129,23): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(144,28): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(144,22): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(209,29): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(209,23): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(214,31): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(214,23): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(219,24): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(219,18): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(239,30): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(239,23): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(244,28): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(244,22): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(249,26): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(249,20): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(254,28): warning C4305: 'initializing': truncation from 'int' to 'short'
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(254,22): warning C4309: 'initializing': truncation of constant value
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(285,7): warning C4101: 'kofcmeczmk': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(216,9): warning C4930: 'std::string ushbtfxnwzcp(int,short,short)': prototyped function not called (was a variable definition intended?)
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(291,7): warning C4101: 'yeufiqqxmtggmx': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(240,6): warning C4101: 'fkjdgzux': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(215,6): warning C4101: 'ffuyaovxmvqw': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(85,6): warning C4101: 'suewpueijhl': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(298,7): warning C4101: 'kcwwzexf': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(295,7): warning C4101: 'voaivjmdcgjxzwc': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(105,6): warning C4101: 'fezhev': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(80,6): warning C4101: 'jsoksfca': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(290,7): warning C4101: 'dbjmvxgxt': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(250,6): warning C4101: 'mpvsquivi': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(255,6): warning C4101: 'nitqoxx': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(245,6): warning C4101: 'lmbwhmylkch': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(296,7): warning C4101: 'qgvrkykhkmjbjtk': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(288,7): warning C4101: 'wkmrgwxgl': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(260,6): warning C4101: 'muphqbgkkqne': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(135,6): warning C4101: 'uajfih': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(284,7): warning C4101: 'fxcqehshafvljzz': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(265,6): warning C4101: 'ohmbctix': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(246,9): warning C4930: 'std::string fejqfl(std::string,bool,int)': prototyped function not called (was a variable definition intended?)
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(236,9): warning C4930: 'std::string xgblzjmzk(std::string,std::string,int)': prototyped function not called (was a variable definition intended?)
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(235,6): warning C4101: 'xmswtpcqmw': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(130,6): warning C4101: 'ctpdpyfp': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(100,6): warning C4101: 'tgrymneapfd': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(299,7): warning C4101: 'uwaym': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(297,7): warning C4101: 'wjwetmsrkti': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(289,7): warning C4101: 'cfixqdacvwwth': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(195,6): warning C4101: 'qvrobjdqur': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(287,7): warning C4101: 'kubypjkuwuxmdu': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(293,7): warning C4101: 'wknkl': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(241,9): warning C4930: 'std::string xpahk(int,std::string,int)': prototyped function not called (was a variable definition intended?)
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(220,6): warning C4101: 'pcyyalnyu': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(205,6): warning C4101: 'ywwxxqrf': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(200,6): warning C4101: 'ivsxof': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(120,6): warning C4101: 'ufniukbpma': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(292,7): warning C4101: 'cndtnkoevlat': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(140,6): warning C4101: 'zdylra': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(286,7): warning C4101: 'azqirse': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(145,6): warning C4101: 'dsfgimzvrqyl': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(95,6): warning C4101: 'qussvgggt': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(90,6): warning C4101: 'sldbrefa': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(301,7): warning C4101: 'deqmspz': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(300,7): warning C4101: 'wtfaghxnts': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(294,7): warning C4101: 'ojdprhachakejat': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(230,6): warning C4101: 'iffbp': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(211,9): warning C4930: 'std::string zsiol(short,bool,bool)': prototyped function not called (was a variable definition intended?)
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(110,6): warning C4101: 'zarxtaw': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(191,9): warning C4930: 'std::string hznyrrfifx(short,bool,short)': prototyped function not called (was a variable definition intended?)
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(125,6): warning C4101: 'tphlzvkr': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(225,6): warning C4101: 'cwplhry': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(210,6): warning C4101: 'ejbfysimz': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(115,6): warning C4101: 'xtouhuxlz': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(269,8): warning C4101: 'lzjxlszcmuszde': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(272,9): warning C4101: 'sclocvh': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(275,7): warning C4101: 'pdirqibvrpr': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(278,8): warning C4101: 'pujlgwdfmkecxmnffsbj': unreferenced local variable
+D:\Cheat_Development\CSGO\bhop\bhop\cheat\main.cpp(281,7): warning C4101: 'xevzveuqhhihy': unreferenced local variable
+  Generating code
+  1 of 75 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  bhop.vcxproj -> D:\Cheat_Development\CSGO\bhop\bhop\output\bhop.exe
